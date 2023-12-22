@@ -4,14 +4,14 @@ return {
      config = function()
   require('rose-pine').setup({
 	--- @usage 'auto'|'main'|'moon'|'dawn'
-	variant = 'auto',
+	variant = 'main',
 	--- @usage 'main'|'moon'|'dawn'
 	dark_variant = 'main',
 	bold_vert_split = false,
 	dim_nc_background = false,
-	disable_background = false,
+	disable_background = true,
 	disable_float_background = false,
-	disable_italics = false,
+	disable_italics = true,
 
 	--- @usage string hex value or named color from rosepinetheme.com/palette
 	groups = {
