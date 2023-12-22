@@ -1,0 +1,5 @@
+- gx does not work. Make it open link in default browser
+- Fix config so that lsp/treesiter/mason happy
+- migrate harpoon to harpoon 2
+- Fix werid char issue that apears in some files not in TMUX?
+- Fix color scheme. Diffrent in tmux???

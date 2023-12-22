@@ -1,3 +1,5 @@
+-- A way to quickly navigate to the files you need in your work set
+-- https://github.com/ThePrimeagen/harpoon
 return {
   "ThePrimeagen/harpoon",
   dependencies = {

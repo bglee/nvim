@@ -1,3 +1,5 @@
+-- fzf and grep files 
+-- https://github.com/nvim-telescope/telescope.nvim
 return {
   "nvim-telescope/telescope.nvim",
   branch = "0.1.x",

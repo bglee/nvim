@@ -1,3 +1,5 @@
+-- Use to add auto pairs like () {}
+-- https://github.com/windwp/nvim-autopairs
 return {
   "windwp/nvim-autopairs",
   event = { "InsertEnter" },
