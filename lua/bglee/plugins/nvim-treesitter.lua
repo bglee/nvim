@@ -24,8 +24,9 @@ return {
         },
         -- ensure these language parsers are installed
         ensure_installed = {
+          "rust",
           "json",
-          "rust-analyzer"
+          "lua",
         },
         incremental_selection = {
           enable = true,

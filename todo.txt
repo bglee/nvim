@@ -1,3 +1,2 @@
 - gx does not work. Make it open link in default browser
-- Fix config so that lsp/treesiter/mason happy
 - migrate harpoon to harpoon 2
