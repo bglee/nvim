@@ -27,6 +27,7 @@ return {
           "rust",
           "json",
           "lua",
+          "typescript"
         },
         incremental_selection = {
           enable = true,

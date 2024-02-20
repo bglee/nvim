@@ -19,7 +19,10 @@ return {
     local lspkind = require("lspkind")
 
     -- loads vscode style snippets from installed plugins (e.g. friendly-snippets)
-    require("luasnip.loaders.from_vscode").lazy_load()
+     require("luasnip.loaders.from_vscode").lazy_load()
+    -- https://github.com/L3MON4D3/LuaSnip
+    -- https://code.visualstudio.com/docs/editor/userdefinedsnippets
+    require("luasnip.loaders.from_vscode").lazy_load({ paths = { vim.fn.stdpath("config") .. "/snips" } })
 
     cmp.setup({
       completion = {

@@ -39,7 +39,8 @@ return {
         "black",    -- python formatter
         "pylint",   -- python linter
         "eslint_d", -- js linter
-        "rust-analyzer" -- rust lsp
+        "rust-analyzer", -- rust lsp
+        "typescript-language-server" -- tsserver
       },
     })
   end,

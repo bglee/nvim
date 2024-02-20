@@ -1,0 +1,16 @@
+{
+  "react-ts-functional-component": {
+    "scope": "typescript,javascript",
+    "prefix": "arfc",
+    "body": [
+      "const $1 = () => {",
+      "    return (",
+      "        <div>",
+      "        </div>",
+      "    );",
+      "};",
+      "export default $1;"
+    ],
+    "description": "React Functional Component"
+  }
+}
