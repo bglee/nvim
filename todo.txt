@@ -1,0 +1,2 @@
+- gx does not work. Make it open link in default browser
+- migrate harpoon to harpoon 2

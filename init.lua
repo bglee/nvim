@@ -1,3 +1,2 @@
-require("bglee")
-
-
+require("bglee.core")
+require("bglee.lazy")
