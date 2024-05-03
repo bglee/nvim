@@ -40,6 +40,7 @@ return {
         "pylint",   -- python linter
         "eslint_d", -- js linter
         "rust-analyzer", -- rust lsp
+        "jdtls",
         "typescript-language-server" -- tsserver
       },
     })
